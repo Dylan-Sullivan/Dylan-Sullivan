@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Dylan-Sullivan
-- 👀 I’m interested in robotics engineering from all aspects: mechanical, electrical, and software.
-- 🌱 I’m currently learning the engineering process for building a robotic/mechatronic system, aside from my academic work in mechanical and mechatronics engineering. 
-- 💞️ I’m looking to collaborate on anything pertaining to robotics. I have experience modeling physical parts in SOLIDWORKS and using the Arduino as an embedded system
-      for robotics applications. I would like to learn more about the electronics behind robotics.
+- I am currently studying mechanical engineering at Montana State University with an emphasis/minor in mechatronics
+- I am working part time as a Service Engineer at a drone manufacturing company called Vision Aerial
+- 👀 I’m working towards becoming a Robotics Engineer and I am interested in aquiring skillsets within all aspects of robotic systems, i.e., mechanical, electrical, and software subsystems.
+- 💞️ I am using my github account primarily to showcase the work I have been doing in Udacity's Robotics Software Engineering Course, and to come, I will also upload the Assembly and C code that I have been developing in my introduction to embedded systems design course at MSU.
 - 📫 How to reach me: 
-    
             LinkedIn: www.linkedin.com/in/dylan-w-sullivan
 
 <!---
